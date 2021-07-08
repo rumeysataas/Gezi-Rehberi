@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219823887115",
+    "project_id": "travel-ca5fd",
+    "storage_bucket": "travel-ca5fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219823887115:android:bcc4c89f6ef777946e480e",
+        "android_client_info": {
+          "package_name": "com.rumeysa.mustafa.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219823887115-7kchb1829bfdq94f425ecdnki06dtgu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChy5wEpiuhLHkFO6Te-dn-nylSyLaxufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219823887115-7kchb1829bfdq94f425ecdnki06dtgu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
